@@ -59,7 +59,7 @@ namespace CSharpFundamentals
             //Console.WriteLine(text);
 
             var method = ShippingMethod.Express;
-            Console.WriteLine(method);
+            //Console.WriteLine(method);
 
             var number = 1;
             Increment(number);
